@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://imgcdn.stablediffusionweb.com/2024/9/18/fb2b1127-a32e-455c-8fae-599664ae7280.jpg" align="center" style="width: 100%" />
+<img height="300" width="600"  src="https://imgcdn.stablediffusionweb.com/2024/9/18/fb2b1127-a32e-455c-8fae-599664ae7280.jpg" align="center" style="width: 100%" />
 </div>  
   
 
