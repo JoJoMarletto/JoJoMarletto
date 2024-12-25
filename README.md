@@ -1,5 +1,5 @@
 <div align="center">
-<img height="400" width="600"  src="https://imgcdn.stablediffusionweb.com/2024/9/18/fb2b1127-a32e-455c-8fae-599664ae7280.jpg" align="center"/>
+<img height="400" width="600"  src="assets/retro.jpg" align="center"/>
 </div>  
   
 
@@ -59,6 +59,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoJoMarletto&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
 
 
 ## Recent Blog Posts  
