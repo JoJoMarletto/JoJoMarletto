@@ -1,5 +1,5 @@
 <div align="center">
-<img height="400" width="600"  src="assets/retro.jpg" align="center"/>
+<img height="400" width="700"  src="assets/retro.jpg" align="center"/>
 </div>  
   
 
@@ -63,7 +63,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="assets/github_snake.svg" alt="snake"/>
 </p>
 
 ###
