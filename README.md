@@ -46,8 +46,6 @@
   <img width="12" />
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
   <img width="12" />
- <a href="https://grafana.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-  <img width="12" />
  <a href="https://www.mongodb.com" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" height="50" /></a>
    <img width="12" />
 </div>
