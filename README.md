@@ -70,27 +70,27 @@ me.show_profile()
 
 <div align="left">
  <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
   <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
     <a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 5px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
  <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
   <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
   <a href="https://www.postgresql.org" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Postgresql" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <img width="12" />
+  <img width="6" />
  <a href="https://www.mongodb.com" target="_blank"><img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" height="50" /></a>
-   <img width="12" />
+   <img width="6" />
 </div>
 
 ###
