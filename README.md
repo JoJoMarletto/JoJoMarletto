@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  Обо мне:</h3>
 
 ###
 
@@ -19,11 +19,8 @@
 <br/>  
 
 
-###
+##🛠 Технологии:</h3>
 
-<h3 align="left">🛠 Технологии:</h3>
-
-###
 
 <div align="left">
  <a href="https://www.python.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -53,11 +50,7 @@
 ###
 
 
-###
-
-<h3 align="left">Связь со мной:</h3>
-
-###
+##Связь со мной:
 
 <div align="center">
   <a href="https://t.me/jojoMarletto" target="_blank">
