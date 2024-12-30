@@ -16,6 +16,46 @@
 
 ###
 
+<br/>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class PythonDeveloper:
+    def __init__(self):
+        self.name = "Sergey"
+        self.role = "Python Developer"
+        self.code = ["Python"]
+        self.technologies = {
+            "backEnd": ["Django", "FastAPI"],
+            "devOps": ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
+            "databases": ["PostgreSQL", "MongoDB", "SQLite"]
+        }
+        self.architecture = {
+            "backEnd": ["microservices", "monolithic"],
+            "databases": ["Relational", "NoSQL"]
+        }
+
+    def show_profile(self):
+        profile = f"""
+        Hello, I'm {self.name}, a dedicated {self.role}.
+        With extensive experience in:
+        - Back-end development with technologies like {', '.join(self.technologies['backEnd'])}
+        - DevOps skills including {', '.join(self.technologies['devOps'])}
+        - Managing databases such as {', '.join(self.technologies['databases'])}
+
+        I'm passionate about building scalable, high-quality software and driving innovation.
+        Let's connect and discuss how I can bring value to your team!
+        """
+        print(profile)
+
+
+me = PythonDeveloper()
+me.show_profile()
+```
+
 <br/>  
 
 
